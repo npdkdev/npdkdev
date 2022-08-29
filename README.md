@@ -15,15 +15,16 @@ Hello👋 I'm NpDk 🧑‍💻</h1>
 
 ### My Skills
 
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=4479A1)](https://github.com/npdkdev?tab=repositories&q=&type=&language=PHP)
-[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)](https://github.com/npdkdev?tab=repositories&q=&type=&language=blade)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java)](https://github.com/npdkdev?tab=repositories&q=&type=&language=kotlin)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://github.com/npdkdev?tab=repositories&q=&type=&language=kotlin)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/npdkdev?tab=repositories&q=&type=&language=kotlin)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://github.com/npdkdev?tab=repositories&q=&type=&language=kotlin)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://github.com/npdkdev?tab=repositories&q=&type=&language=kotlin)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/npdkdev?tab=repositories&q=&type=&language=javascript)
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://github.com/npdkdev?tab=repositories&q=&type=&language=sql)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=PHP)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=blade)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=kotlin)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=kotlin)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=kotlin)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=C%2B%2B)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/npdkdev?tab=repositories&q=&type=&language=javascript)
+[![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=sql)
+[![NoSQL](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=sql)
 
 ### User Of
 
