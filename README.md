@@ -13,7 +13,7 @@ Hello👋 I'm NpDk 🧑‍💻</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-### My Skills
+## My Skills
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=PHP)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
@@ -27,7 +27,7 @@ Hello👋 I'm NpDk 🧑‍💻</h1>
 [![NoSQL](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/npdkdev?tab=repositories&q=&type=&language=sql)
 
 
-### OS 💻  IDE 👩‍💻  and Tools
+## OS 💻  IDE 👩‍💻  and Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
@@ -48,7 +48,7 @@ Hello👋 I'm NpDk 🧑‍💻</h1>
 ![Trophy](https://github-profile-trophy.vercel.app/?username=npdkdev&column=4)
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=npdkdev&layout=compact)
-![Trophy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=npdkdev&theme=dracula)
+![Trophy2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=npdkdev&theme=dracula)
 </div>
 <!---
 npdkdev/npdkdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
