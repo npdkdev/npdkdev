@@ -8,6 +8,8 @@ Hello👋 I'm NpDk 🧑‍💻</h1>
 <p align="center">
   <a href="https://www.instagram.com/npdk.me/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/khenop"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=npdkdev&style=flat-square&color=blue" alt=""/>
+  </div>
 
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
